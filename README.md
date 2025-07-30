@@ -1,10 +1,10 @@
-# 🏠 Real Estate Predictor
+# Real Estate Predictor
 
 A Python-based machine learning portfolio project with regression, classification, and deep learning tasks. Built using real-world datasets to demonstrate core ML workflows, data preprocessing, model evaluation, and visualization.
 
 ---
 
-## 📊 Project Features
+## Project Features
 
 ### Regression
 - Predicting housing prices using:
@@ -77,7 +77,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 
-# 📦 Requirements
+# Requirements
 See requirements.txt for full list. Includes:
 
 	•	pandas
